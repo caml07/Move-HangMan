@@ -131,7 +131,9 @@ Guarda estos IDs tras cada operación, ya que los necesitarás para los siguient
 |   x   |    120       |
 |   y   |    121       |
 |   z   |    122       |
+
 ---
 
 ## Move registry
+
 https://www.moveregistry.com/package/@pkg/hangman
